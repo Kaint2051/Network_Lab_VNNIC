@@ -18,12 +18,10 @@ Dưới đây là hình ảnh về Topology cũng như đề bài
   Có thể thấy kiến thức áp dụng bài lab khá nhiều nhưng chỉ cần có kiến thức tốt về Routing và Switching cùng với khả năng research siêu cấp vippro thì ta có thể hoàn thành được bài lab :V.
 
   Để hoàn thành được bài lab, mình sẽ chia ra làm 4 chính(thật ra mình đã chia theo các anh Mentor đã phân công cho 4 người nên chia ra 4 phần :v):
-  `
-    - Cấu hình lớp Layer 2 về user.
+  ` - Cấu hình lớp Layer 2 về user.
     - Cấu hình Core đổ các Vlan về Layer 2.
     - Cấu hình Firewall(đây là phần mình được giao trong bài Lab này).
-    - Cấu hình Router routing ra các nhà mạng.
-  `
+    - Cấu hình Router routing ra các nhà mạng.`
  
 Dải IP tụi mình được cấp là **103.95.196.0/22** (vì IPv6 tụi mình chưa làm xong[nói thẳng ra là lười vkl =)))] nên mình sẽ không cấu hình phần IPv6 nhé). Ai cần giải thích cách chia mạng con của tụi mình thì mình sẽ để ở đây nhé(https://github.com/Kaint2051/Network_Lab_VNNIC/blob/main/IPPLANNING.md)
 
