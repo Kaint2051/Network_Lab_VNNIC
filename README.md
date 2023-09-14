@@ -23,7 +23,7 @@ Dưới đây là hình ảnh về Topology cũng như đề bài
     - Cấu hình Firewall(đây là phần mình được giao trong bài Lab này).
     - Cấu hình Router routing ra các nhà mạng.
  
-Dải IP tụi mình được cấp là **103.95.196.0/22** (vì IPv6 tụi mình chưa làm xong[nói thẳng ra là lười vkl =)))] nên mình sẽ không cấu hình phần IPv6 nhé). Ai cần giải thích cách chia mạng con của tụi mình thì mình sẽ để ở đây nhé(https://github.com/Kaint2051/Lab_Network-at-VNNIC/wiki/Chia-IP-theo-d%E1%BA%A3i-103.95.196.0-Subnet-22)
+Dải IP tụi mình được cấp là **103.95.196.0/22** (vì IPv6 tụi mình chưa làm xong[nói thẳng ra là lười vkl =)))] nên mình sẽ không cấu hình phần IPv6 nhé). Ai cần giải thích cách chia mạng con của tụi mình thì mình sẽ để ở đây nhé(https://github.com/Kaint2051/Network_Lab_VNNIC/blob/main/IPPLANNING.md)
 
 Vậy là xong phần quy hoạch IP(Cái này rối vkl, thề 🥴), ta sẽ chia các Dải mạng con vào các Vlan(mạng lan ảo) như sau:
  * Vlan 10: 103.95.197.128/28  | IP dành cho thiết bị kết nối
